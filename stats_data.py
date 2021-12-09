@@ -1,4 +1,4 @@
-# Ejercicio 13 de clase
+# Ejercicio 10 para entregar
 
 import statistics as st
 
